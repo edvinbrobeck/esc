@@ -1,0 +1,129 @@
+@import "../fonts/stylesheet.css";
+@import "animate.less";
+@import "elements.less";
+
+
+
+/* -----------------------------------------
+   Variabler
+----------------------------------------- */
+@linkcolor: #00c0f7;
+@headercolor: #fff;
+@textcolor: #fff;
+
+
+/* -----------------------------------------
+   Typograpghy
+----------------------------------------- */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  -webkit-backface-visibility: hidden;
+}
+
+
+html, html body {
+  background: #6bfae6; /* Old browsers */
+  background: -moz-linear-gradient(45deg,  #6bfae6 0%, #2eedd6 50%, #00e0bd 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#6bfae6), color-stop(50%,#2eedd6), color-stop(100%,#00e0bd)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(45deg,  #6bfae6 0%,#2eedd6 50%,#00e0bd 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(45deg,  #6bfae6 0%,#2eedd6 50%,#00e0bd 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(45deg,  #6bfae6 0%,#2eedd6 50%,#00e0bd 100%); /* IE10+ */
+  background: linear-gradient(45deg,  #6bfae6 0%,#2eedd6 50%,#00e0bd 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6bfae6', endColorstr='#00e0bd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+h1,h2,h3,h4,h5,h5 {
+
+
+  font-family: 'Segoessad UI Light', 'Open Sans', Verdana, Arial, Helvetica, sans-serif;
+  font-weight: 200;
+  letter-spacing: 0.00em;
+  line-height: 44pt;
+  font-smooth: always;
+
+
+  color: @headercolor;
+  margin:0px 0px 20px 0px;
+  a {
+    color: @headercolor;
+    &:hover { color:darken(@headercolor,10%); }
+  }
+}
+
+h1 {
+  font-size: 75px;
+}
+h2 {
+  font-size: 23px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+a {
+  color: @linkcolor;
+  &:hover { color:darken(@linkcolor,10%);}
+}
+
+table { width: 100%; }
+
+
+/* -----------------------------------------
+   Grid config
+----------------------------------------- */
+.tile-row {
+
+
+.tile {
+  box-sizing: border-box;
+  width: 25%;
+  padding: 5px;
+
+  float:left;
+
+  img {
+    width: 100%;
+  }
+
+  &.medium {
+    width: 37.5%;
+    margin-left: 12.5%;
+
+    &.right {
+      margin-left: 0px;
+      margin-right: 12.5%;
+    }
+  }
+  &.double {
+    width:50%;
+  }
+
+
+  &.right {
+    float: right;
+  }
+
+
+
+}
+
+
+  .message {
+    height: 0px;
+    width: 15%;
+    position:relative;
+    z-index:10;
+
+    &.right {
+      margin-left: 85%;
+    }
+  }
+
+}
+
+
+#main {
+  padding-top: 60px;
+}
