@@ -1,5 +1,7 @@
 <?php
 require 'assets/instagram-php/instagram.class.php';
+require ('assets/codebird-php-master/src/codebird.php');
+
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -35,30 +37,14 @@ require 'assets/instagram-php/instagram.class.php';
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="#">Project name</a>
+                    <a class="brand" href="#">#WEAREONE</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav">
                             <li class="active"><a href="#">Home</a></li>
                             <li><a href="#about">About</a></li>
                             <li><a href="#contact">Contact</a></li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="#">Action</a></li>
-                                    <li><a href="#">Another action</a></li>
-                                    <li><a href="#">Something else here</a></li>
-                                    <li class="divider"></li>
-                                    <li class="nav-header">Nav header</li>
-                                    <li><a href="#">Separated link</a></li>
-                                    <li><a href="#">One more separated link</a></li>
-                                </ul>
-                            </li>
                         </ul>
-                        <form class="navbar-form pull-right">
-                            <input class="span2" type="text" placeholder="Email">
-                            <input class="span2" type="password" placeholder="Password">
-                            <button type="submit" class="btn">Sign in</button>
-                        </form>
+
                     </div><!--/.nav-collapse -->
                 </div>
             </div>
@@ -70,12 +56,27 @@ require 'assets/instagram-php/instagram.class.php';
                 <?php
 
 
+                Codebird::setConsumerKey('UqHEhnzpLXRneKlsddsaQ', 'gQBX2J5HNmtjLSqtn9pHYTyNzpPO3j92uJGOw006qs'); // static, see 'Using multiple Codebird instances'
+                $cb = Codebird::getInstance();
+                $tweet_query = $cb->search_tweets('q=weareone&count=100', true);
+
+
+
+                $images = array();
+                foreach($tweet_query->statuses as $tweet) {
+                    if(!$tweet->entities->media) continue;
+                    foreach($tweet->entities->media as $image){
+                        $images[] = $image->media_url;
+                    }
+                }
+
+
 
                 // Initialize class for public requests
                 $instagram = new Instagram('f49e775f45b54397a446253dd3756e6a');
 
                 // Get from tag
-                $popular = $instagram->getTagMedia('weareone');
+                $popular = $instagram->getTagMedia('esc2013');
 
 
 
@@ -104,16 +105,16 @@ require 'assets/instagram-php/instagram.class.php';
                 <?php
 
                 // Display results
-                $images = array();
+                //$images = array();
                 foreach ($popular->data as $data) {
-                    $images[] = $data;
+                    $images[] = $data->images->standard_resolution->url;
                 }
 
                 $i = 0;
                 foreach($patterns as $pattern){
                     foreach($pattern['sizes'] as $size) {
                         $img = $images[$i];
-                        echo '<div class="'. $size . '"><img src="' . $img->images->standard_resolution->url . '"></div>';
+                        echo '<div class="'. $size . '"><img src="' . $img . '"></div>';
                         $i++;
                     }
                     echo $pattern['message'];
