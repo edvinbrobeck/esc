@@ -4,42 +4,42 @@
     <list default="true" id="c7b89053-a33c-403c-acbb-83bd9b350965" name="Default" comment="" />
     <ignored path="esc.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/app.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366382681960" ignored="false" />
-    <file path="$PROJECT_DIR$/../Kalenderevent/wp-content/themes/houston/css/app.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366383008364" ignored="false" />
-    <file path="$PROJECT_DIR$/../Kalenderevent/wp-content/themes/houston/archive-event.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366378720642" ignored="false" />
-    <file path="/archive-event.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366371684241" ignored="false" />
-    <file path="$PROJECT_DIR$/../Kalenderevent/wp-content/themes/houston/functions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366383239608" ignored="false" />
-    <file path="/functions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366383239111" ignored="false" />
-    <file path="$PROJECT_DIR$/../Kalenderevent/wp-content/themes/houston/single-event.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366384008868" ignored="false" />
-    <file path="$PROJECT_DIR$/../folkbildarforum/wp-config.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366386146636" ignored="false" />
-    <file path="$PROJECT_DIR$/../SpeedwayVM/wp-content/themes/sgp/footer.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366388496608" ignored="false" />
-    <file path="/Dummy.txt" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366612738049" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/front-page.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/page.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="/page.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366613249222" ignored="false" />
-    <file path="/front-page.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614140085" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/template-parts/casts/video/basic-cast.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/js/app.js" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-casts-component/includes/templates/casts/upload.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/template-parts/reviews/reviews-loop.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/css/app.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/single-casts.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-casts-component/includes/bp-casts-actions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/header.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366616889543" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/functions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366617581148" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/dashboard.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-casts-component/includes/bp-casts-loader.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/css/less/casts.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/functions-buddypress.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/css/less/layout.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/template-parts/casts/archive-navigation.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress/bp-templates/bp-legacy/buddypress/activity/index.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/template-parts/casts/featured-casts.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress/bp-members/bp-members-template.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/css/less/sidebar.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-follow-me/includes/bp-follow-functions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
-    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-casts-component/includes/templates/casts/edit.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
     <file path="/index.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366621518320" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-casts-component/includes/templates/casts/edit.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-follow-me/includes/bp-follow-functions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/css/less/sidebar.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress/bp-members/bp-members-template.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/template-parts/casts/featured-casts.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress/bp-templates/bp-legacy/buddypress/activity/index.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/template-parts/casts/archive-navigation.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/css/less/layout.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/functions-buddypress.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/css/less/casts.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-casts-component/includes/bp-casts-loader.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/dashboard.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/functions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366617581148" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/header.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366616889543" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-casts-component/includes/bp-casts-actions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/single-casts.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/css/app.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/template-parts/reviews/reviews-loop.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/plugins/buddypress-casts-component/includes/templates/casts/upload.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/js/app.js" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/template-parts/casts/video/basic-cast.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="/front-page.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614140085" ignored="false" />
+    <file path="/page.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366613249222" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/page.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="$PROJECT_DIR$/../sc2tv/wp-content/themes/sctv/front-page.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366614191095" ignored="false" />
+    <file path="/Dummy.txt" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366612738049" ignored="false" />
+    <file path="$PROJECT_DIR$/../SpeedwayVM/wp-content/themes/sgp/footer.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366388496608" ignored="false" />
+    <file path="$PROJECT_DIR$/../folkbildarforum/wp-config.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366386146636" ignored="false" />
+    <file path="$PROJECT_DIR$/../Kalenderevent/wp-content/themes/houston/single-event.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366384008868" ignored="false" />
+    <file path="/functions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366383239111" ignored="false" />
+    <file path="$PROJECT_DIR$/../Kalenderevent/wp-content/themes/houston/functions.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366383239608" ignored="false" />
+    <file path="/archive-event.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366371684241" ignored="false" />
+    <file path="$PROJECT_DIR$/../Kalenderevent/wp-content/themes/houston/archive-event.php" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366378720642" ignored="false" />
+    <file path="$PROJECT_DIR$/../Kalenderevent/wp-content/themes/houston/css/app.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366383008364" ignored="false" />
+    <file path="/app.less" changelist="c7b89053-a33c-403c-acbb-83bd9b350965" time="1366382681960" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,57 +59,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="app.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/app.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="21" selection-start="1840" selection-end="1840" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="61" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.10342205">
+            <state line="128" column="86" selection-start="4536" selection-end="4536" vertical-scroll-proportion="-2.654321">
               <folding>
-                <marker date="1366621711000" expanded="true" signature="5083:5107" placeholder="..." />
+                <marker date="1366666176000" expanded="true" signature="6810:6834" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="responsive.less" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/responsive.less">
+      <file leaf-file-name="app.less" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/app.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="2" selection-start="729" selection-end="729" vertical-scroll-proportion="0.0">
+            <state line="72" column="16" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.9514286">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popular_media.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/instagram-php/example/popular_media.php">
+      <file leaf-file-name="elements.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/elements.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="1" selection-start="38" selection-end="300" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="success.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/success.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fonts/stylesheet.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="1" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.0">
+            <state line="47" column="12" selection-start="1949" selection-end="1960" vertical-scroll-proportion="-7.8076925">
               <folding />
             </state>
           </provider>
@@ -118,7 +91,61 @@
       <file leaf-file-name="framework.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/framework.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="54" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+            <state line="16" column="16" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylesheet.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fonts/stylesheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mixins.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/mixins.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="560" column="31" selection-start="18893" selection-end="18903" vertical-scroll-proportion="-1.9230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive-767px-max.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/responsive-767px-max.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="108" selection-end="135" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive-768px-979px.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/responsive-768px-979px.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="92" selection-end="143" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive-1200px-min.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/responsive-1200px-min.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="95" selection-end="123" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/variables.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="289" column="0" selection-start="8558" selection-end="8558" vertical-scroll-proportion="-15.615385">
               <folding />
             </state>
           </provider>
@@ -137,9 +164,10 @@
         <option value="$PROJECT_DIR$/fonts/stylesheet.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/bootstrap/less/responsive.less" />
+        <option value="$PROJECT_DIR$/assets/bootstrap/less/variables.less" />
         <option value="$PROJECT_DIR$/css/framework.less" />
-        <option value="$PROJECT_DIR$/css/app.less" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/css/app.less" />
       </list>
     </option>
   </component>
@@ -150,8 +178,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="2560" />
-    <option name="height" value="1440" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -184,27 +212,41 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
+              <option name="myItemId" value="esc13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
+              <option name="myItemId" value="esc13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
+              <option name="myItemId" value="esc13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
+              <option name="myItemId" value="esc13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
+              <option name="myItemId" value="esc13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="esc13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="esc13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -214,33 +256,15 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
+              <option name="myItemId" value="esc13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
+              <option name="myItemId" value="esc13" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="esc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codebird-php-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -251,55 +275,23 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="PublishConfig" serverName="ESC" serverId="41920c15-e4e3-48c3-ada2-42d4a50f73b9">
     <servers>
       <server id="280fe5ef-e73e-47f9-8c52-1802273d64cd">
         <serverdata />
       </server>
-      <server id="41920c15-e4e3-48c3-ada2-42d4a50f73b9">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="48cab98b-23ad-48d2-82bd-90acd66cf8bf">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-      <server id="54879766-21df-44fc-824f-4698e8e8cb57">
+      <server id="7fdd4a33-4ebe-43ca-a51f-dbb7f70d1aa5">
         <serverdata />
       </server>
-      <server id="54988870-9649-450f-957a-99df867b7ffa">
+      <server id="9501dac2-91d4-4503-9af1-15759383a25b">
         <serverdata />
       </server>
-      <server id="5c9e2290-bb0b-4d53-a327-f03c373467d3">
-        <serverdata />
-      </server>
-      <server id="60999ff7-5cc8-42ce-8dee-e8a9b2b1f7f2">
-        <serverdata />
-      </server>
-      <server id="6282f919-5141-457e-98f3-f670b5f3eda7">
-        <serverdata />
-      </server>
-      <server id="71517d38-0e2f-4452-9e98-3d14956b60da">
-        <serverdata />
-      </server>
-      <server id="78ba949a-3fda-496b-90b6-73aa9e19a569">
-        <serverdata />
-      </server>
-      <server id="adb67253-5504-432b-bd4c-428af03701f3">
+      <server id="ba04a9dd-aa65-44dc-8af6-55f9a91d2b1e">
         <serverdata />
       </server>
       <server id="c73591dc-6015-4e92-990f-f0574747f1f6">
-        <serverdata />
-      </server>
-      <server id="e7e27992-c7de-4036-806e-82209cbd9160">
         <serverdata />
       </server>
     </servers>
@@ -325,20 +317,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2557677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26012966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -381,13 +373,6 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -401,7 +386,6 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
@@ -409,62 +393,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="61" selection-start="3473" selection-end="3473" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1366621711000" expanded="true" signature="5083:5107" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/instagram-php/example/popular_media.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="38" selection-end="300" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/success.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/framework.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/bootstrap/js/.jshintrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fonts/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="1" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/success.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/instagram-php/example/success.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
@@ -484,36 +412,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/instagram-php/instagram.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="245" column="18" selection-start="6822" selection-end="6822" vertical-scroll-proportion="0.33282906" />
+        <state line="265" column="18" selection-start="7267" selection-end="7267" vertical-scroll-proportion="-80.07692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/grid.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/responsive.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="2" selection-start="729" selection-end="729" vertical-scroll-proportion="0.0">
+        <state line="34" column="0" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="560" column="31" selection-start="18893" selection-end="18903" vertical-scroll-proportion="-1.9230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/elements.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="12" selection-start="1949" selection-end="1960" vertical-scroll-proportion="-7.8076925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/responsive-767px-max.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="108" selection-end="135" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/responsive-768px-979px.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="92" selection-end="143" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/responsive-1200px-min.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="95" selection-end="123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="289" column="0" selection-start="8558" selection-end="8558" vertical-scroll-proportion="-15.615385">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/framework.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="54" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+        <state line="16" column="16" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/app.less">
+    <entry file="file://$PROJECT_DIR$/fonts/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="21" selection-start="1840" selection-end="1840" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="61" selection-start="2396" selection-end="2396" vertical-scroll-proportion="0.10342205">
+        <state line="128" column="86" selection-start="4536" selection-end="4536" vertical-scroll-proportion="-2.654321">
           <folding>
-            <marker date="1366621711000" expanded="true" signature="5083:5107" placeholder="..." />
+            <marker date="1366666176000" expanded="true" signature="6810:6834" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="16" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.9514286">
+          <folding />
         </state>
       </provider>
     </entry>

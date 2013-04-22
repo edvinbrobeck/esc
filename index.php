@@ -1,7 +1,5 @@
 <?php
 require 'assets/instagram-php/instagram.class.php';
-require ('assets/codebird-php-master/src/codebird.php');
-
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
@@ -29,7 +27,7 @@ require ('assets/codebird-php-master/src/codebird.php');
 
         <!-- This code is taken from http://twitter.github.com/bootstrap/examples/hero.html -->
 
-        <div class="navbar navbar-inverse navbar-fixed-top">
+        <nav id="menu" class="navbar navbar-inverse navbar-fixed-top">
             <div class="navbar-inner">
                 <div class="container">
                     <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -39,86 +37,132 @@ require ('assets/codebird-php-master/src/codebird.php');
                     </a>
                     <a class="brand" href="#">#WEAREONE</a>
                     <div class="nav-collapse collapse">
-                        <ul class="nav">
-                            <li class="active"><a href="#">Home</a></li>
-                            <li><a href="#about">About</a></li>
-                            <li><a href="#contact">Contact</a></li>
+                        <ul class="nav pull-right">
+                            <li><a href="#">Tävlingsregler</a></li>
+                            <li><a href="#about">svt.se/eurovision</a></li>
+                            <li><a href="#contact">Svt.se</a></li>
                         </ul>
 
                     </div><!--/.nav-collapse -->
                 </div>
             </div>
-        </div>
+        </nav>
 
         <div id="main" class="container">
             <div class="row">
-                <h1>#WEAREONE</h1>
                 <?php
 
-
-                Codebird::setConsumerKey('UqHEhnzpLXRneKlsddsaQ', 'gQBX2J5HNmtjLSqtn9pHYTyNzpPO3j92uJGOw006qs'); // static, see 'Using multiple Codebird instances'
-                $cb = Codebird::getInstance();
-                $tweet_query = $cb->search_tweets('q=weareone&count=100', true);
-
-
-
                 $images = array();
-                foreach($tweet_query->statuses as $tweet) {
-                    if(!$tweet->entities->media) continue;
-                    foreach($tweet->entities->media as $image){
-                        $images[] = $image->media_url;
-                    }
-                }
-
-
-
                 // Initialize class for public requests
                 $instagram = new Instagram('f49e775f45b54397a446253dd3756e6a');
 
                 // Get from tag
-                $popular = $instagram->getTagMedia('esc2013');
-
+                $popular = $instagram->getTagMedia('swedish');
 
 
 
                 $patterns = array(
                     array(
-                        "sizes" => array("tile double", "tile", "tile", "tile", "tile"),
-                        "message" => '<article class="message"><h2>Currently</h2></article>'
+                        "sizes" => array(
+                            "span4",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2"
+                        ),
+                        "message" => "Test"
                     ),
+
                     array(
-                        "sizes" => array("tile double right", "tile medium", "tile medium", "tile right", "tile rigt"),
-                        "message" => '<article class="message"><h2>Currently</h2></article>'
+                        "sizes" => array(
+                            array(
+                                "span2",
+                                "span2",
+                                "span2",
+                                "span2"
+                            ),
+                            "span4",
+                            "span2 right",
+                            "span2 right"
+                        ),
+                        "message" => ""
                     ),
+
                     array(
-                        "sizes" => array("tile double right", "tile medium", "tile medium", "tile right", "tile rigt"),
-                        "message" => '<article class="message"><h2>Currently</h2></article>'
+                        "sizes" => array(
+                            "span4 right",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2"
+                        )
                     ),
+
+                    array(
+                        "sizes" => array(
+                            "span4",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2",
+                            "span2"
+                        )
+                    )
                 );
 
 
                 ?>
             </div>
             <!-- Example row of columns -->
-            <div class="row tile-row">
-
+            <div id="feed" class="row fluid tile-row">
+                <div id="message">
+                    <h1>WE<br />ARE<br />ONE</h1>
+                    <p>
+                        Vinn biljetter<br />till semifinalerna<br />och finalen!
+                    </p>
+                    <p>
+                        Dela din<br />fjärilsbild<br />på Instagram,<br />använd<br />#WEAREONE2013
+                    </p>
+                    <p>
+                        <a href="#" alt="" title="">Så här fungerar det</a>
+                    </p>
+                </div>
                 <?php
 
-                // Display results
-                //$images = array();
-                foreach ($popular->data as $data) {
-                    $images[] = $data->images->standard_resolution->url;
-                }
-
-                $i = 0;
-                foreach($patterns as $pattern){
-                    foreach($pattern['sizes'] as $size) {
-                        $img = $images[$i];
-                        echo '<div class="'. $size . '"><img src="' . $img . '"></div>';
-                        $i++;
+                    // Display results
+                    //$images = array();
+                    foreach ($popular->data as $data) {
+                        $images[] = $data->images->standard_resolution->url;
                     }
-                    echo $pattern['message'];
-                }
+                    foreach ($popular->data as $data) {
+                        $images[] = $data->images->standard_resolution->url;
+                    }
+
+
+                    $i = 0;
+                    foreach($patterns as $pattern){
+                        echo '<div class="span2 empty"></div>';
+                        foreach($pattern['sizes'] as $size) {
+                                if(is_array($size)) {
+                                    echo '<div class="span4 grid"><div class="row">';
+                                    foreach($size as $span2) {
+                                        $img = $images[$i];
+                                        echo '<div class="'. $span2 . '"><img src="' . $img . '"></div>';
+                                        $i++;
+                                    }
+                                    echo "</div></div>";
+                                } else {
+                                    $img = $images[$i];
+                                    echo '<div class="'. $size . '"><img src="' . $img . '"></div>';
+                                    $i++;
+                                }
+                        }
+                    }
                 ?>
 
             </div>
@@ -130,6 +174,9 @@ require ('assets/codebird-php-master/src/codebird.php');
             </footer>
 
         </div> <!-- /container -->
+
+
+        <img src="images/head.png" id="head" class="hidden-phone" alt="">
 
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
